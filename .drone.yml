@@ -7,7 +7,7 @@ steps:
   - 
     commands: 
       - "bash ./run.sh"
-    image: gengkapak/dumper:latest
+    image: gengkapak/dumper
     name: Dumping
     trigger: 
       branch: 

@@ -1,6 +1,3 @@
 apt install git -y
 cd /app
-bash dump.sh "https://bigota.d.miui.com/V12.0.2.0.QJWINXM/miui_CURTANAINGlobal_V12.0.2.0.QJWINXM_533770a027_10.0.zip"
-bash dump.sh "input/miui_CURTANAINGlobal_V12.0.2.0.QJWINXM_533770a027_10.0.zip"
-bash dump.sh "input/miui_CURTANAINGlobal_V12.0.2.0.QJWINXM_533770a027_10.0.zip"
-bash dump.sh "input/miui_CURTANAINGlobal_V12.0.2.0.QJWINXM_533770a027_10.0.zip"
+bash dump.sh "https://drv.idn.workers.dev/Nusantara_v2.5.1-11-miatoll-Gapps-29012021-InnOvaTioN-1421.zip"

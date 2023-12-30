@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_PapiLer_DroneCI_1703948215841-push-trigger-input-set
+  identifier: Build_PapiLer_DroneCI_1703948215841pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_PapiLer_DroneCI_1703948215841
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>

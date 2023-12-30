@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_PapiLer_DroneCI_1703948215841-pr-trigger-input-set
+  identifier: Build_PapiLer_DroneCI_1703948215841prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_PapiLer_DroneCI_1703948215841
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
